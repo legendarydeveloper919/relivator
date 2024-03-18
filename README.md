@@ -1,8 +1,8 @@
 # Relivator 1.2.5: The Most Feature-Rich Next.js 14 Starter
 
-<!-- https://github.com/blefnk/relivator#readme -->
+<!-- https://github.com/legendarydeveloper919/relivator#readme -->
 
-☀️ [Check Project Features](https://github.com/blefnk/relivator#project-roadmap-features-checklist) | 🌐 [Launch Relivator's Demo](https://relivator.bleverse.com) | 📖 [Read the Docs](https://docs.bleverse.com)
+☀️ [Check Project Features](https://github.com/legendarydeveloper919/relivator#project-roadmap-features-checklist) | 🌐 [Launch Relivator's Demo](https://relivator.bleverse.com) | 📖 [Read the Docs](https://docs.bleverse.com)
 
 Stop running from one starter to the next. With Relivator, you'll have unlimited possibilities. You can create anything you want; all the tools are already prepared, just for you.
 
@@ -13,12 +13,12 @@ Please scroll down the page to see a lot of useful information about how everyth
 ## How to Install and Get Started
 
 1. **Essential Tools**: Ensure that [_VSCode_](https://code.visualstudio.com), [_Git_](https://learn.microsoft.com/en-us/devops/develop/git/install-and-set-up-git), _GitHub Desktop_ ([Windows/macOS](https://desktop.github.com) | [Linux](https://dev.to/rahedmir/is-github-desktop-available-for-gnu-linux-4a69)), _Node.js LTS_ ([Windows/macOS](https://nodejs.org) | [Linux](https://youtu.be/NS3aTgKztis)), and [_PNPM_](https://pnpm.io/installation) are installed.
-2. **Project Cloning**: [_Create a new fork_](https://github.com/blefnk/relivator/fork) and use GitHub Desktop to download it.
+2. **Project Cloning**: [_Create a new fork_](https://github.com/legendarydeveloper919/relivator/fork) and use GitHub Desktop to download it.
 3. **Configuration**: Open VSCode and load the project folder. Press `Ctrl+Shift+P` and search for `>Create New Terminal`. Enter `pnpm install` to install the packages. Next, copy the `.env.example` file to a new `.env` file and fill in at least the `NEXT_PUBLIC_DB_PROVIDER` and `DATABASE_URL` fields. Finally, send the database schema to your database using `pnpm mysql:push` or `pnpm pg:push`.
 4. **Run, Stop, Build**: Use `pnpm dev` to run the app (visit <http://localhost:3000> to check it). Stop it by focusing on the console and pressing `Ctrl+C`. After making changes, build the app using `pnpm build`. _Thats okay if you see Clerk's warnings_ when executing `pnpm build`, this is a known issue not related to Relivator.
-5. **Commit and Deploy**: Upload your project to your GitHub profile using GitHub Desktop. Then, deploy it by importing the project into [Vercel](https://vercel.com/new), making your website publicly accessible on the internet. If you wish to share your work, seek feedback, or ask for assistance, you're welcome to do so either [in our Discord server](https://discord.gg/Pb8uKbwpsJ) or [via GitHub discussions](https://github.com/blefnk/relivator/discussions).
+5. **Commit and Deploy**: Upload your project to your GitHub profile using GitHub Desktop. Then, deploy it by importing the project into [Vercel](https://vercel.com/new), making your website publicly accessible on the internet. If you wish to share your work, seek feedback, or ask for assistance, you're welcome to do so either [in our Discord server](https://discord.gg/Pb8uKbwpsJ) or [via GitHub discussions](https://github.com/legendarydeveloper919/relivator/discussions).
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fblefnk%2Frelivator&project-name=relivator&repository-name=relivator)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Flegendarydeveloper919%2Frelivator&project-name=relivator&repository-name=relivator)
 
 Tip! You can create a folder, for instance, `home`, within the `src` directory, to store your project-specific files. It allows you for easy updates whenever Relivator has new versions.
 
@@ -157,22 +157,22 @@ We've laid the foundation—now it's your turn to dive in and speed up your deve
 
 You can even think of Relivator as a Next.js framework! So, finally, just grab it and enjoy! And, don’t forget: your feedback and stars mean the world to us. Smash that star button! Fork it! Your involvement lifts the project to new heights! If you have coding skills, your contributions are always welcome!
 
-Run into issues? Join our repository discussions, open an issue, or DM us on: [Twitter/𝕏](https://x.com/blefnk), [Discord](https://discord.gg/Pb8uKbwpsJ), [Fiverr](https://fiverr.com/blefnk), [LinkedIn](https://linkedin.com/in/blefnk), or [Facebook](https://facebook.com/blefnk).
+Run into issues? Join our repository discussions, open an issue, or DM us on: [Twitter/𝕏](https://x.com/legendarydeveloper919), [Discord](https://discord.gg/Pb8uKbwpsJ), [Fiverr](https://fiverr.com/legendarydeveloper919), [LinkedIn](https://linkedin.com/in/legendarydeveloper919), or [Facebook](https://facebook.com/legendarydeveloper919).
 
-This project has big plans and we value all the help we can get! If you’re keen to make your own commits, check out the Project Roadmap above to see potential enhancements for the project. Also, use `Cmd/Ctrl+Shift+F` in VSCode and search for `todo:` to find spots that need attention. Please visit the **[Commits](https://github.com/blefnk/relivator/issues)** tab for more opportunities to assist.
+This project has big plans and we value all the help we can get! If you’re keen to make your own commits, check out the Project Roadmap above to see potential enhancements for the project. Also, use `Cmd/Ctrl+Shift+F` in VSCode and search for `todo:` to find spots that need attention. Please visit the **[Commits](https://github.com/legendarydeveloper919/relivator/issues)** tab for more opportunities to assist.
 
-**🔥 We're Growing Fast! A Huge Thanks to [All Our Supporters](https://github.com/blefnk/relivator/stargazers)! Check Out Our Star History:**
+**🔥 We're Growing Fast! A Huge Thanks to [All Our Supporters](https://github.com/legendarydeveloper919/relivator/stargazers)! Check Out Our Star History:**
 
-[![Star History Chart](https://api.star-history.com/svg?repos=blefnk/relivator&type=Date)](https://star-history.com/#blefnk/relivator&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=legendarydeveloper919/relivator&type=Date)](https://star-history.com/#legendarydeveloper919/relivator&Date)
 
 > **Note**
-> Striving to be highly useful, this README contains a lot of information. Some text may be outdated and will be updated as we grow. Please let us know on the [discussion page](https://github.com/blefnk/relivator/discussions/6) if you spot any small issues like outdated info, broken links, or grammatical/spelling errors in README.md or other files.
+> Striving to be highly useful, this README contains a lot of information. Some text may be outdated and will be updated as we grow. Please let us know on the [discussion page](https://github.com/legendarydeveloper919/relivator/discussions/6) if you spot any small issues like outdated info, broken links, or grammatical/spelling errors in README.md or other files.
 
-_Hint: This README.md is translated into these languages (may be outdated):_ [Polish](https://github.com/blefnk/relivator/blob/main/.github/translations/polish.md), [Ukrainian](https://github.com/blefnk/relivator/blob/main/.github/translations/ukrainian.md).
+_Hint: This README.md is translated into these languages (may be outdated):_ [Polish](https://github.com/legendarydeveloper919/relivator/blob/main/.github/translations/polish.md), [Ukrainian](https://github.com/legendarydeveloper919/relivator/blob/main/.github/translations/ukrainian.md).
 
 ## Environment Variables (`.env` file)
 
-**Refer to the [`.env.example`](https://github.com/blefnk/relivator/blob/main/.env.example) file as your guide. Simply copy data from it to a new `.env` file.**
+**Refer to the [`.env.example`](https://github.com/legendarydeveloper919/relivator/blob/main/.env.example) file as your guide. Simply copy data from it to a new `.env` file.**
 
 The `DATABASE_URL`, `NEXT_PUBLIC_DB_PROVIDER`, and `NEXT_PUBLIC_AUTH_PROVIDER` environment variables are mandatory; others are optional. You're welcome to deploy the application as-is, but ensure you verify what's necessary. Though the application will run without certain variables, missing ones may deactivate specific features.
 
@@ -186,13 +186,13 @@ In the 1.1.0 Relivator release, the `.env.example` file was greatly simplified a
 
 ## Stripe Payments
 
-Refer to the [`.env.example`](https://github.com/blefnk/relivator/blob/main/.env.example) file as your guide where and how to get all the important environment variable keys for Stripe, including webhooks both for localhost and deployment.
+Refer to the [`.env.example`](https://github.com/legendarydeveloper919/relivator/blob/main/.env.example) file as your guide where and how to get all the important environment variable keys for Stripe, including webhooks both for localhost and deployment.
 
 Locally, install the [Stripe CLI](https://stripe.com/docs/stripe-cli) and run the command `pnpm stripe:listen` to initiate the Stripe webhook listener. This action connects Stripe to your account and generates a webhook key, which you can then set as an environment variable in Stripe's settings.
 
 When testing Stripe, you can use its test data: `4242424242424242` | `12/34` | `567` | `Random Name` | `Random Country`.
 
-Please refer to [src/app/api/webhooks/stripe/route.ts](https://github.com/blefnk/relivator/blob/main/src/app/api/webhooks/stripe/route.ts) file to learn more in the deep details how Stripe things work in the app. You can also visit the [official Stripe repository](https://github.com/stripe/stripe-node#readme), where you'll find a lot of useful information.
+Please refer to [src/app/api/webhooks/stripe/route.ts](https://github.com/legendarydeveloper919/relivator/blob/main/src/app/api/webhooks/stripe/route.ts) file to learn more in the deep details how Stripe things work in the app. You can also visit the [official Stripe repository](https://github.com/stripe/stripe-node#readme), where you'll find a lot of useful information.
 
 ## Database Support
 
@@ -210,11 +210,11 @@ By default we ensure that every database system has everything the same by using
 
 ### Product Categories and Subcategories
 
-To edit product categories, please refer to the [MySQL](https://github.com/blefnk/relivator/blob/main/src/data/db/schema/mysql.ts#L167C5-L174) or [PostgreSQL](https://github.com/blefnk/relivator/blob/main/src/data/db/schema/pgsql.ts#L24-L29) schema.
+To edit product categories, please refer to the [MySQL](https://github.com/legendarydeveloper919/relivator/blob/main/src/data/db/schema/mysql.ts#L167C5-L174) or [PostgreSQL](https://github.com/legendarydeveloper919/relivator/blob/main/src/data/db/schema/pgsql.ts#L24-L29) schema.
 
 After editing these files, don't forget to run `pnpm mysql:push` or `pnpm pg:push` to apply the changes.
 
-Then, simply update the category names and subcategories in the [products file](https://github.com/blefnk/relivator/blob/main/src/server/config/products.ts#L23) accordingly.
+Then, simply update the category names and subcategories in the [products file](https://github.com/legendarydeveloper919/relivator/blob/main/src/server/config/products.ts#L23) accordingly.
 
 ### Additional Notes About Stripe
 
@@ -322,7 +322,7 @@ The `.env.example` file covers all the essential variables for a fully functiona
 
 **About the Plugins Folder:**
 
-This folder contains optional plugins for Relivator. Developed by @blefnk and other contributors, these plugins extend functionality and provide additional features. If you find that certain plugins are not beneficial for your project, feel free to remove their corresponding folders.
+This folder contains optional plugins for Relivator. Developed by @legendarydeveloper919 and other contributors, these plugins extend functionality and provide additional features. If you find that certain plugins are not beneficial for your project, feel free to remove their corresponding folders.
 
 **Function Over Const for Components:**
 
@@ -395,8 +395,8 @@ _A:_ Simply go to the PlanetScale dashboard and click on the `wake up` button. P
 **Recommended Things to Learn:**
 
 1. [Introduction to Next.js and React](https://youtube.com/watch?v=h2BcitZPMn4) by [Lee Robinson](https://twitter.com/leeerob)
-2. [Relivator: Next.js 14 Starter (Release Announce of Relivator on Medium)](https://cutt.ly/awf6fScS) by [Nazarii Korniienko @Blefnk](https://github.com/blefnk)
-3. [Welcome to the Wild World of TypeScript, Mate! Is it scary?](https://cutt.ly/CwjVPUNu) by [Nazarii Korniienko @Blefnk](https://github.com/blefnk)
+2. [Relivator: Next.js 14 Starter (Release Announce of Relivator on Medium)](https://cutt.ly/awf6fScS) by [Nazarii Korniienko @legendarydeveloper919](https://github.com/legendarydeveloper919)
+3. [Welcome to the Wild World of TypeScript, Mate! Is it scary?](https://cutt.ly/CwjVPUNu) by [Nazarii Korniienko @legendarydeveloper919](https://github.com/legendarydeveloper919)
 4. [React: Common Mistakes in 2023](https://docs.google.com/presentation/d/1kuBeSh-yTrL031IlmuwrZ8LvavOGzSbo) by [Cory House](https://twitter.com/housecor)
 5. [Thoughts on Next.js 13, Server Actions, Drizzle, Neon, Clerk, and More](https://github.com/Apestein/nextflix/blob/main/README.md#overall-thoughts) by [@Apestein](https://github.com/Apestein)
 6. [Huge Next-Multilingual Readme About i18n](https://github.com/Avansai/next-multilingual#readme) by [@Avansai](https://github.com/Avansai)
@@ -415,7 +415,7 @@ _More learning resources can be found within the files of this repository._
 
 Just a small hotfix to improve the developer experience.
 
-[Visit release page to learn more...](https://github.com/blefnk/relivator/releases/edit/1.2.3)
+[Visit release page to learn more...](https://github.com/legendarydeveloper919/relivator/releases/edit/1.2.3)
 
 </details>
 
@@ -428,7 +428,7 @@ Remember, Relivator is designed to be beginner-friendly, so quite a lot of ESLin
 
 These turn-offs will be gradually eliminated as we move towards the massive 2.0.0, which will significantly raise the project's standards, being professional, will be even more convenient for beginners.
 
-[Visit release page to learn more...](https://github.com/blefnk/relivator/releases/edit/1.2.2)
+[Visit release page to learn more...](https://github.com/legendarydeveloper919/relivator/releases/edit/1.2.2)
 
 </details>
 
@@ -441,14 +441,14 @@ Update v1.2.1 adds Chinese localization, and among other things, work has begun 
 
 p.s. 1.2.1 is the first commit to the Relivator repository that no longer contains an emoji at the beginning of its name. Thanks to this, contributors to Relivator/Reliverse will no longer have to spend time inventing a suitable emoji.
 
-[Visit release page to learn more...](https://github.com/blefnk/relivator/releases/edit/1.2.1)
+[Visit release page to learn more...](https://github.com/legendarydeveloper919/relivator/releases/edit/1.2.1)
 
 </details>
 
 <details>
   <summary>1.2.0 | [27.12.2023] 🎄 Relivator v1.2.0 is here! 🥳 Click to see the announcement 🎁</summary>
 
-_Relivator 1.2.0 is already here! I, [@blefnk Nazarii Korniienko](https://github.com/blefnk), am thrilled to wrap up this year 2023, proudly presenting this release to the OSS community! So, the result of over two months of hard work is finally here!_
+_Relivator 1.2.0 is already here! I, [@legendarydeveloper919 Nazarii Korniienko](https://github.com/legendarydeveloper919), am thrilled to wrap up this year 2023, proudly presenting this release to the OSS community! So, the result of over two months of hard work is finally here!_
 
 In this version, significant attention was focused on stability, security, performance optimization, and a substantial improvements in design—both visually, UX, and the logic of how the app works. A lot was really done, too much to list everything! Be sure to install it and check it out for yourself!
 
@@ -485,22 +485,22 @@ Among many other new and fixed things, Stripe is now fully functional and comes 
 
 Please check out the updated list of project features in the project's README. Enjoy and please share your feedback!
 
-[Visit release page to learn more...](https://github.com/blefnk/relivator/releases/edit/1.1.0)
+[Visit release page to learn more...](https://github.com/legendarydeveloper919/relivator/releases/edit/1.1.0)
 
 </details>
 
 <details>
   <summary>1.0.0 | 🎉 Relivator Release</summary>
 
-How to Install and Get Started? Please visit [the project's README](https://github.com/blefnk/relivator#readme), where you can always find up-to-date information about the project and how to install it easily.
+How to Install and Get Started? Please visit [the project's README](https://github.com/legendarydeveloper919/relivator#readme), where you can always find up-to-date information about the project and how to install it easily.
 
-[Visit release page to learn more...](https://github.com/blefnk/relivator/releases/edit/1.0.0)
+[Visit release page to learn more...](https://github.com/legendarydeveloper919/relivator/releases/edit/1.0.0)
 
 </details>
 
 ## Migration from Other Starters to Relivator
 
-If you've been exploring which Next.js starter to select for your next project like [create-next-app](https://vercel.com/templates/next.js/nextjs-boilerplate), [create-t3-app](https://create.t3.gg), [Next.js Commerce (Vercel Store)](https://vercel.store), [Skateshop](https://github.com/sadmann7/skateshop), [OneStopShop](https://github.com/jackblatch/OneStopShop), [Taxonomy](https://github.com/shadcn-ui/taxonomy)/[nextflix](https://github.com/Apestein/nextflix), [payload](https://github.com/payloadcms/payload), [Medusa](https://github.com/medusajs/medusa), or [any other projects](https://github.com/blefnk/relivator/wiki/Project-Credits-&-Contributors) – your search can end here.
+If you've been exploring which Next.js starter to select for your next project like [create-next-app](https://vercel.com/templates/next.js/nextjs-boilerplate), [create-t3-app](https://create.t3.gg), [Next.js Commerce (Vercel Store)](https://vercel.store), [Skateshop](https://github.com/sadmann7/skateshop), [OneStopShop](https://github.com/jackblatch/OneStopShop), [Taxonomy](https://github.com/shadcn-ui/taxonomy)/[nextflix](https://github.com/Apestein/nextflix), [payload](https://github.com/payloadcms/payload), [Medusa](https://github.com/medusajs/medusa), or [any other projects](https://github.com/legendarydeveloper919/relivator/wiki/Project-Credits-&-Contributors) – your search can end here.
 
 _«There are a lot of impractical things about owning a ~~Porsche~~ Relivator. But they're all offset by the driving experience. It really is unique. ~~Lamborghinis~~ Skateshop and ~~Ferraris~~ Vercel Store come close. And they are more powerful in specific cases, but they don't handle like a ~~Porsche~~ Relivator.» © Kevin O'Leary_
 
@@ -514,11 +514,11 @@ If you **choose Relivator to be your next project starter** and you want to migr
 
 _This section will be enhanced soon with simpler steps to get everything ready._
 
-Contributions are warmly welcomed! We express our gratitude to everyone who has contributed to this repository. Your contributions will be recognized. If you have any questions or suggestions, please open an issue. For more information, see the [contributing guide](https://github.com/blefnk/relivator/blob/main/contributing.md).
+Contributions are warmly welcomed! We express our gratitude to everyone who has contributed to this repository. Your contributions will be recognized. If you have any questions or suggestions, please open an issue. For more information, see the [contributing guide](https://github.com/legendarydeveloper919/relivator/blob/main/contributing.md).
 
-Please visit [this special wiki page](https://github.com/blefnk/relivator/wiki/Project-Credits-&-Contributors) to view the full list of credits and contributors. To contribute to Bleverse Relivator, follow these steps:
+Please visit [this special wiki page](https://github.com/legendarydeveloper919/relivator/wiki/Project-Credits-&-Contributors) to view the full list of credits and contributors. To contribute to Bleverse Relivator, follow these steps:
 
-1. Begin by reading the "How to Install and Get Started" section on the top of this repository, and by reading [CONTRIBUTING.md](https://github.com/blefnk/relivator/blob/main/contributing.md) page.
+1. Begin by reading the "How to Install and Get Started" section on the top of this repository, and by reading [CONTRIBUTING.md](https://github.com/legendarydeveloper919/relivator/blob/main/contributing.md) page.
 2. Create a branch: `git checkout -b <branch_name>`.
 3. Make and commit your changes: `git commit -m '<commit_message>'`
 4. Push to the original branch: `git push origin <branch_name>`
@@ -528,15 +528,15 @@ Alternatively, check the GitHub docs on [how to create a pull request](https://h
 
 ## Project License
 
-This project is licensed under MIT and is free to use and modify for your own projects. Check the [LICENSE.md](https://github.com/blefnk/relivator/LICENSE.md) file for details.
+This project is licensed under MIT and is free to use and modify for your own projects. Check the [LICENSE.md](https://github.com/legendarydeveloper919/relivator/LICENSE.md) file for details.
 
 🌐 [https://relivator.bleverse.com](https://relivator.bleverse.com)
 
 ---
 
-**Follow Us Everywhere:** [GitHub](https://github.com/blefnk) | [Twitter/𝕏](https://x.com/blefnk) | [Discord](https://discord.gg/Pb8uKbwpsJ) | [Fiverr](https://fiverr.com/blefnk) | [LinkedIn](https://linkedin.com/in/blefnk) | [Facebook](https://facebook.com/blefnk)
+**Follow Us Everywhere:** [GitHub](https://github.com/legendarydeveloper919) | [Twitter/𝕏](https://x.com/legendarydeveloper919) | [Discord](https://discord.gg/Pb8uKbwpsJ) | [Fiverr](https://fiverr.com/legendarydeveloper919) | [LinkedIn](https://linkedin.com/in/legendarydeveloper919) | [Facebook](https://facebook.com/legendarydeveloper919)
 
-This Next.js 14 starter—Relivator—was crafted with love by [@blefnk Nazarii Korniienko](https://github.com/blefnk), and by the incredible [Bleverse OSS community](https://github.com/blefnk/relivator/wiki/Project-Credits-&-Contributors). We are deeply grateful for all the contributions and support provided by everyone for this project.
+This Next.js 14 starter—Relivator—was crafted with love by [@legendarydeveloper919 Nazarii Korniienko](https://github.com/legendarydeveloper919), and by the incredible [Bleverse OSS community](https://github.com/legendarydeveloper919/relivator/wiki/Project-Credits-&-Contributors). We are deeply grateful for all the contributions and support provided by everyone for this project.
 
 _«I couldn't find the ~~sports car~~ Next.js starter of my dreams, so I built it myself.» © Ferdinand Porsche_
 
@@ -546,10 +546,10 @@ Happy coding! Embark on your coding adventure, learn, iterate, and most importan
 
 ![Bleverse Relivator OG Image](/public/og-image.png)
 
-Check out [our other free Next.js 14 starter](https://github.com/blefnk/reliverse). This one, a monorepo, provides the tech used in the current starter and adds: Turborepo/Turbopack, Prisma, Valibot, Lucia, Clerk, and much more, as we experimentally attempt to combine all vital and widely-used tech. It's like thinking about: Reliverse (WordPress) + Relivator (WooCommerce) = 😍. So, start right now! Start today. With Relivator!
+Check out [our other free Next.js 14 starter](https://github.com/legendarydeveloper919/reliverse). This one, a monorepo, provides the tech used in the current starter and adds: Turborepo/Turbopack, Prisma, Valibot, Lucia, Clerk, and much more, as we experimentally attempt to combine all vital and widely-used tech. It's like thinking about: Reliverse (WordPress) + Relivator (WooCommerce) = 😍. So, start right now! Start today. With Relivator!
 
 ```bash
-git clone https://github.com/blefnk/relivator.git
+git clone https://github.com/legendarydeveloper919/relivator.git
 ```
 
 [bleverse-discord]: https://discord.gg/Pb8uKbwpsJ
